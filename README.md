@@ -7,4 +7,4 @@ graph TD
     B --- C((C: İzmir))
     B --- E((E: Antalya))
     D --- E
-    ```
+    
