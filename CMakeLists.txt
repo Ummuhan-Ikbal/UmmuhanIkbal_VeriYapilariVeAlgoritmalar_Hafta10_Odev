@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.3)
+project(UmmuhanIkbal_VeriYapilariVeAlgoritmalar_Hafta10_Odev C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(UmmuhanIkbal_VeriYapilariVeAlgoritmalar_Hafta10_Odev main.c)
